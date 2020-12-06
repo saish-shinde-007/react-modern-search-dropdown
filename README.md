@@ -54,7 +54,7 @@ class SearchExample extends Component {
 
 
 # License
-MIT © 
+MIT
 
 # Keywords
 none

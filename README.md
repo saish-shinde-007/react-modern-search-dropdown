@@ -1,3 +1,5 @@
+# react-modern-search-dropdown component
+![Screenshot](react-search-dropdown.png)
 # Install the react-modern-search-dropdown component
 `````
 npm i react-modern-search-dropdown
